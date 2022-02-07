@@ -1,2 +1,2 @@
 # ClassReader
-A c++ progrom to read java class file
+A c++ program to read java class file
